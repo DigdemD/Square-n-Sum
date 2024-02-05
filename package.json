@@ -4,7 +4,7 @@
   "description": "the square sum function  squares each number passed into it and then sums the results",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,8 @@
   "bugs": {
     "url": "https://github.com/DigdemD/Square-n-Sum/issues"
   },
-  "homepage": "https://github.com/DigdemD/Square-n-Sum"
+  "homepage": "https://github.com/DigdemD/Square-n-Sum",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
-
-
-
