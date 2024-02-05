@@ -11,8 +11,12 @@
     "url": "https://github.com/DigdemD/Square-n-Sum.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Digdem Deyirmenci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DigdemD/Square-n-Sum/issues"
+  },
+  "homepage": "https://github.com/DigdemD/Square-n-Sum"
 }
 
 
