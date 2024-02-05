@@ -1,0 +1,12 @@
+{
+  "name": "square-n-sum",
+  "version": "1.0.0",
+  "description": "the square sum function  squares each number passed into it and then sums the results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
